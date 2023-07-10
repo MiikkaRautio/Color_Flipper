@@ -1,0 +1,68 @@
+body{
+    background-color: darkslategrey;
+    align-items: center;
+    padding: 0;
+    margin: 0 auto;
+    width: 45%;
+    padding-top: 10rem;
+}
+
+#aTagContainer{ 
+    padding-top: 20px;
+}
+
+.option{
+    color: white;
+    font-family: 'Playfair Display', serif;
+    text-decoration: none;
+    margin: 0 auto;
+    transition: 0.3s;
+    font-size: 20px;
+
+}
+
+.option:hover{
+    color: rgb(226, 230, 0);
+}
+
+.optionContainer{
+    background-color: darkcyan;
+    text-align: center;
+    height: 4em;
+    width: 50rem;
+}
+
+.mainContainer{
+    background-color: aquamarine;
+    text-align: center;
+    height: 20rem;
+    width: 50rem;
+}
+
+#mainDiv{
+    font-size: 5rem;
+    font-family: 'Playfair Display', serif;
+}
+
+#button{
+    text-decoration: none;
+    border: none;
+    padding: 10px 10px;
+    font-size: 16px;
+    font-family: 'Playfair Display', serif;
+    background-color: turquoise;
+    cursor: pointer;
+    transition: 0.5s;
+    margin-top: 2rem;
+}
+
+#button:hover{
+    background-color: rgb(226, 230, 0);
+}
+
+#color {
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    margin-top: 2rem;
+}
+
